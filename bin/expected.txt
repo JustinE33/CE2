@@ -1,0 +1,15 @@
+Welcome to TextBuddy. thetextfile.txt is ready for use
+command: added to thetextfile.txt: "little brown fox"
+command: 1. little brown fox
+
+command: added to thetextfile.txt: "jumped over the moon"
+command: 1. little brown fox
+2. jumped over the moon
+
+command: deleted from thetextfile.txt: "jumped over the moon"
+command: 1. little brown fox
+
+command: all content deleted from thetextfile.txt
+command: thetextfile.txt is empty
+
+command: 

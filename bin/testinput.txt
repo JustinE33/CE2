@@ -1,0 +1,9 @@
+add little brown fox
+display
+add jumped over the moon
+display
+delete 2
+display
+clear
+display
+exit
